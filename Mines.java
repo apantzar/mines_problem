@@ -2,7 +2,7 @@ package TreasureHunt;
 // xrisimopoietai o algorithmos quickhull,
 
 //Anastasios Pantzartzis ->apantzar@csd.auth.gr
-//AEM->3216
+
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
